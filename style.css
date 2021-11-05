@@ -1,0 +1,12 @@
+.list{
+    list-style-type: none;
+}
+.list-item{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+.answer{
+    margin-left: 30px;
+    font-size: 36px;
+}
